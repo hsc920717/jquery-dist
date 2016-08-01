@@ -3,6 +3,8 @@
 // unguarded in another place, it seems safer to define global only for this module
 
 sajdhjshad
+
+abc
 define( [
 	"./var/arr",
 	"./var/document",
